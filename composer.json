@@ -1,0 +1,19 @@
+{
+    "name": "shahkar/google-search-meta-data",
+    "description": "this package is just for astralab code challenge",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Shahkar\\GoogleSearchMetaData\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shahkar",
+            "email": "shahkar@abbcfoundation.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+}
