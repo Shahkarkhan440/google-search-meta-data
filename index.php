@@ -8,4 +8,3 @@ $greeting = new Index();
 
 echo $greeting->greet("Hello Composer");
 
-

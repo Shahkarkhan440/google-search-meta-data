@@ -2,6 +2,7 @@
     "name": "shahkar/google-search-meta-data",
     "description": "this package is just for astralab code challenge",
     "type": "library",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Shahkar\\GoogleSearchMetaData\\": "src/"
